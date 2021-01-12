@@ -1,0 +1,7 @@
+asgiref==3.3.1
+chardet==4.0.0
+Django==3.1.5
+django-adaptors==0.2.5
+django-csvimport==2.16
+pytz==2020.5
+sqlparse==0.4.1
